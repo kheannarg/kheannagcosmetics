@@ -1,0 +1,215 @@
+.top {
+  display: grid;
+  grid-template-columns: 1fr 2fr 3fr;
+  grid-gap: 2px;
+  height: 10vh;
+}
+
+.logo {
+  background-image: url(../images/logo.png);
+  background-position: left;
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 10vh;
+  margin: 5px;
+}
+
+.space {
+  height: 13vh;
+}
+
+.menu {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-gap: 4px;
+  height: 13vh;
+}
+
+a {
+	text-decoration: none;
+}
+
+li {
+	padding: 18px;
+	text-align:center;
+	color: #D4Af37;
+	list-style: none;
+	font-size: 30px;
+	font-family:Georgia;
+}
+
+.button {
+	text-align: center;
+}
+
+.TEXT {
+  text-align: center;
+  font-family: Arial Black;
+  font-size: 40px;
+  margin: 10px;
+  color: #D4Af37;
+}
+
+.pro {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 10px;
+  height: 120vh;
+  margin: 15px;
+  margin-bottom: 50px;
+}
+
+
+.a {
+  height: 15vh;
+  background-image: url(../images/a.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin: 5px;
+  border: 4px black solid;
+}
+
+.b {
+  height: 15vh;
+  background-image: url(../images/b.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin: 5px;
+  border: 4px black solid;
+}
+
+.c {
+  height: 15vh;
+  background-image: url(../images/c.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin: 5px;
+  border: 4px black solid;
+}
+
+.d {
+  height: 15vh;
+  background-image: url(../images/d.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin: 5px;
+  border: 4px black solid;
+}
+
+.e {
+  height: 15vh;
+  background-image: url(../images/e.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin: 5px;
+  border: 4px black solid;
+}
+
+.f {
+  height: 15vh;
+  background-image: url(../images/f.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin: 5px;
+  border: 4px black solid;
+}
+
+.g {
+  height: 15vh;
+  background-image: url(../images/g.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin: 5px;
+  border: 4px black solid;
+}
+
+.h {
+  height: 15vh;
+  background-image: url(../images/h.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin: 5px;
+  border: 4px black solid;
+}
+
+.i {
+  height: 15vh;
+  background-image: url(../images/i.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin: 5px;
+  border: 4px black solid;
+}
+
+.j {
+  height: 15vh;
+  background-image: url(../images/j.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin: 5px;
+  border: 4px black solid;
+}
+
+.k {
+  height: 15vh;
+  background-image: url(../images/k.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin: 5px;
+  border: 4px black solid;
+}
+
+.l {
+  height: 15vh;
+  background-image: url(../images/l.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin: 5px;
+  border: 4px black solid;
+}
+
+.m {
+  height: 15vh;
+  background-image: url(../images/m.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin: 5px;
+  border: 4px black solid;
+}
+
+.n {
+  height: 15vh;
+  background-image: url(../images/n.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin: 5px;
+  border: 4px black solid;
+}
+
+.footer {
+  height: 5vh;
+  background: #CF9B7C;
+  margin: 10px;
+}
+
+.t {
+  margin-top: 4px;
+  text-align: center;
+  font-family: Arial Black;
+  padding-top: 10px;
+  font-size: 20px;
+}

@@ -1,0 +1,97 @@
+.top {
+  display: grid;
+  grid-template-columns: 1fr 2fr 3fr;
+  grid-gap: 2px;
+  height: 10vh;
+}
+
+.logo {
+  background-image: url(../images/logo.png);
+  background-position: left;
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 10vh;
+  margin: 5px;
+}
+
+.space {
+  height: 13vh;
+}
+
+.menu {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-gap: 4px;
+  height: 13vh;
+}
+
+a {
+	text-decoration: none;
+}
+
+li {
+	padding: 18px;
+	text-align:center;
+	color: #D4Af37;
+	list-style: none;
+	font-size: 30px;
+	font-family:Georgia;
+}
+
+.button {
+	text-align: center;
+}
+
+.showcase {
+	background-image: url(../images/lol.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+  height: 40vh;
+  margin: 10px;
+}
+
+.me {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  grid-gap: 4px;
+  margin: 12px;
+  height: 50vh;
+  margin-bottom: 20px;
+}
+
+.photo {
+  height: 50vh;
+  background-image: url(../images/pretty.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center
+}
+
+.ttext {
+  border: 5px #986960 solid;
+  height: 50vh;
+}
+
+.text {
+  text-align: justify;
+  font-family: Arial Black;
+  font-size: 30px;
+  font-color: #CF9B7C;
+  padding: 20px;
+
+}
+
+.footer {
+  height: 5vh;
+  background: #CF9B7C;
+  margin: 6px;
+}
+
+.t {
+  margin-top: 4px;
+  text-align: center;
+  font-family: Arial Black;
+  padding-top: 10px;
+  font-size: 20px;
+}
